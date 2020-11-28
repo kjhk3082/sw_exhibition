@@ -1,6 +1,6 @@
 # watch out for bomb! :bomb:
 
-<img src=watch out for bomb.png>  
+<img src=wofb.png>  
 
 * 프로젝트 설명  
  VR/AR 게임제작기초 과목에서 학습한 내용을 바탕으로 게임 직접 구현   
